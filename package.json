@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^4.16.3",
+    "opossum": "^1.7.1"
+  }
+}
